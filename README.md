@@ -29,7 +29,7 @@ The code is written in Jupyter Notebook or in python, and requires various pytho
 This github is compiled of several Jupyter Notebooks used to compute the data and produce the study presented in: Fredensborg Hansen et al. (2024). Data compiled and used for the study is presented in: DOI 10.11583/DTU.21369129 
 
 ## References
-Fredensborg Hansen, R.M, Henriette Skourup, Eero Rinne, et al. (2024). (PROVIDED SOON). 
+Fredensborg Hansen, R. M., Skourup, H., Rinne, E., Høyland, K. V., Landy, J. C., Merkouriadi, I., & Forsberg, R. (2024). Arctic freeboard and snow depth from near‐coincident CryoSat‐2 and ICESat‐2 (CRYO2ICE) observations: A first examination of winter sea ice during 2020–2022. Earth and Space Science, 11(4), e2023EA003313.
 
 Landy, J. C., Petty, A. A., Tsamados, M., & Stroeve, J. C. (2020). Sea ice roughness overlooked as a key source of uncertainty in CryoSat-2 ice freeboard retrievals. Journal of Geophysical Research: Oceans, 125, e2019JC015820. https://doi.org/10.1029/2019JC015820
 
